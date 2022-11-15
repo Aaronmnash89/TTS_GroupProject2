@@ -7,6 +7,7 @@ CSS:
 Make To-Do list look nice using CSS
 add boarders and complemtery colors to make it look more applealing.
 
+
 >>>>>>>>>>>>>>>>>>>>>
 
 Arianna's contribution
@@ -22,6 +23,8 @@ Haleys Contribution
 HTML:
 set up the "frame" were going to use as the base for our to-do list. 
 drop down link 
+add nav bar 
+add footer
 
 
 >>>>>>>>>>>>>>>>>>>>>
