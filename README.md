@@ -5,7 +5,7 @@ To-do List using HTML,CSS, and JS
 Aaron's Contribution
 CSS:
 Make To-Do list look nice using CSS
-add boarders and complemtery colors to make it look more applealing.
+add boarders and complementary colors to make it look more appealing.
 
 
 >>>>>>>>>>>>>>>>>>>>>
